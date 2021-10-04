@@ -1,0 +1,54 @@
+.nav{
+    background-color: black;
+    border-radius: 10px;
+}
+.nav ol{
+ overflow: hidden;
+
+}
+.nav li{
+    float: left;
+    list-style: none;
+    
+    color: blanchedalmond;
+   
+    padding: 3px 4px;
+}
+.nav li a{
+    padding: 5px;
+    color: blanchedalmond;
+    text-decoration: none;
+    margin:  5px;
+}
+.nav li a:hover{
+    color: red;
+}
+.search input{
+    border: 4px solid black;
+    border-radius: 9px;
+    padding: 4px;
+    margin-left: 7px;
+    width: 300px;
+}
+#logo{
+    margin-top: -2px;
+    margin-bottom: -1px;
+    padding: 2px;
+    float: right;
+    margin-left: 369px;
+
+}
+h1{
+    text-align: center;
+
+}
+h1 b{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+#home img{
+    height: 226px;
+    width: 2px;
+    overflow: auto;
+    border-radius: 50%;i
+}
